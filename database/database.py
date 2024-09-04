@@ -3,4 +3,4 @@ user_dict_template = {
     'bookmarks': set()
 }
 
-user_db = {}
+users_db = {}
